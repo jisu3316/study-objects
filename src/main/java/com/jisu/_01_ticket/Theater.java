@@ -1,5 +1,9 @@
 package com.jisu._01_ticket;
 
+/**
+ * 소극장
+ * 관람객을 입장시킬수 있는 enter 메소드가 있다.
+ */
 public class Theater {
 
     private TicketSeller ticketSeller;
